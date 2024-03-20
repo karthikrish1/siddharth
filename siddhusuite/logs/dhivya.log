@@ -1,0 +1,4 @@
+[INFO ] 2024-03-18 20:28:25.826 [main] k1 - visiting website
+[INFO ] 2024-03-18 20:28:27.956 [main] k1 - clicking, holding and releasing 
+[ERROR] 2024-03-18 20:28:31.104 [main] k1 - it may not be released
+[INFO ] 2024-03-18 20:28:31.104 [main] k1 - going to quit
